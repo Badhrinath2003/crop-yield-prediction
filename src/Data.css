@@ -1,0 +1,43 @@
+td.data,th.heading{
+    border:rgb(113, 104, 89) 2px solid;
+    border-collapse: collapse;
+    color:rgb(183, 191, 199);
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    margin-left: 50px;
+}
+table.table-container{
+    border:rgb(113, 104, 89) 7px solid;
+    border-radius: 10px;
+}
+#year{
+    color:rgb(183, 191, 199);
+}
+.dounload{
+
+    margin-top: 3rem;
+    text-align: center;
+    background-color: #900c5d;
+    margin-left: 45%;
+    width: 15%;
+
+    padding:1%;
+    border-radius: 5%;
+    margin-bottom: 50px;
+}
+
+#downnN{
+    text-decoration: none;
+    text-align: center;
+    
+    color:antiquewhite;
+    font-size: larger;
+}
+.Data{
+    margin-left: 20px;
+    width: 97%;
+
+    overflow-x:auto;
+}
